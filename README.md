@@ -14,7 +14,12 @@ https://github.com/user-attachments/assets/9c16cb4a-8309-4bc9-9467-b223c2c893ef
 
 <img width="1284" height="1276" alt="RBR_SkodaFavorit_Dreas_image" src="https://github.com/user-attachments/assets/7a6e39f7-ad7f-4923-9e28-6604078b0bb5" />
 
+## Using the car skin
+Download the zip from https://github.com/dreasgrech/RichardBurnsRally-CarSkin-SkodaFavorit-PersonalCar/releases/new
 
+Extract the files to a new directory called `DreasSkoda` here: `\Richard Burns Rally\Cars\Favorit\skins\DreasSkoda\`
+
+You can then choose the skin for the Skoda Favorit in th RSF Launcher.
 
 ## Editing car liveries in RSF Richard Burns Rally
 
