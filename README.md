@@ -1,7 +1,7 @@
 This is a car skin for the Skoda Favorit in RSF Richard Burns Rally based on my personal Skoda Forman I owned once and used as my everyday car for many years.
 
 <p align="center">
-    <img width="615" height="455" alt="image4" src="https://github.com/user-attachments/assets/d6e17e51-46e8-4f45-abb3-f6a48cc96bdf" />
+    <img width="2282" height="1283" alt="image" src="https://github.com/user-attachments/assets/4fbb6eae-0bf5-4c14-a8b3-a23dacafec58" />
 </p>
 
 
